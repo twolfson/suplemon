@@ -36,7 +36,7 @@ class Config:
                     "ctrl+w": "close_file",        # Ctrl + W
                     "ctrl+n": "new_file",          # Ctrl + N
                     # FIXME: Ctrl+Q is used for unsuspend. Needs raw mode (not cbreak) to support this shortcut.
-                    "ctrl+q": "ask_exit",          # Ctrl + Q
+                    "ctrl+x": "ask_exit",          # Ctrl + X
                     "ctrl+p": "comment",           # Ctrl + P
                     "ctrl+pageup": "next_file",    # Ctrl + Page Up
                     "ctrl+pagedown": "prev_file",  # Ctrl + Page Down
