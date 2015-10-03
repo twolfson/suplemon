@@ -3,5 +3,5 @@
 - [x] Fixed README heading to use proper casing of Suplemon (used eveywhere else)
 - [x] Fixed Linux casing in README
 - [ ] Added installation instructions for `optional-dependencies`
-- [ ] Formalized `.travis.yml` steps into `requirements-dev.txt` and `./test.sh`
+- [x] Formalized `.travis.yml` steps into `requirements-dev.txt` and `./test.sh`
 - [ ] Added "Development" instructions in README (mostly for testing)
