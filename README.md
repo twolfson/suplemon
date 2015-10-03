@@ -50,7 +50,11 @@ No dependencies outside the Python Standard Library required.
  > For showing linting for Python files.
 
  * xsel
- > For system clipboard support on X Window (linux).
+ > For system clipboard support on X Window (Linux).
+
+ See [docs/optional-dependencies.md][] for installation instructions.
+
+ [docs/optional-dependencies.md]: docs/optional-dependencies.md
 
 ## Usage
 
