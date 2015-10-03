@@ -4,4 +4,12 @@
 - [x] Fixed Linux casing in README
 - [ ] Added installation instructions for `optional-dependencies`
 - [x] Formalized `.travis.yml` steps into `requirements-dev.txt` and `./test.sh`
-- [ ] Added "Development" instructions in README (mostly for testing)
+- [x] Added "Development" instructions in README (mostly for testing)
+- [x] Trimmed trailing whitespace in README
+
+Not in this PR:
+
+- Add `release.sh`
+- Instead of emulating a `dict` for Config via `__getitem__`, `__setitem__`, etc. Why not inherit from a dict?
+- Remove generic except from `load_config_file`
+    - We should deliver an error message to the user
