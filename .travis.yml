@@ -13,9 +13,6 @@ python:
 install:
   - "pip install -r requirements-dev.txt --use-mirrors"
 
-# Not Implemented
-# ignore=E501,W291,W293"
 # command to run tests
-#script: "python setup.py nosetests"
 script:
-  - "flake8 suplemon --max-line-length=120"
+  - "./test.sh"
