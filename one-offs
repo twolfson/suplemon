@@ -1,0 +1,3 @@
+- Reduced greed of version regexp in `setup.py`
+    - TODO: Link to regexp performance
+- Fixed README heading to use proper casing of Suplemon (used eveywhere else)
