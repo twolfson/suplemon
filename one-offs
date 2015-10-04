@@ -6,6 +6,8 @@
 - [x] Formalized `.travis.yml` steps into `requirements-dev.txt` and `./test.sh`
 - [x] Added "Development" instructions in README (mostly for testing)
 - [x] Trimmed trailing whitespace in README
+- [x] Fixed up single quotes to double quotes for consistency
+    - Waiting on https://github.com/zheller/flake8-quotes/pull/9 to actually enforce this
 
 Not in this PR:
 
