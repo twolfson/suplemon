@@ -1,8 +1,8 @@
 - [x] Reduced greed of version regexp in `setup.py`
-    - TODO: Link to regexp performance
+    - https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/
 - [x] Fixed README heading to use proper casing of Suplemon (used eveywhere else)
 - [x] Fixed Linux casing in README
-- [ ] Added installation instructions for `optional-dependencies`
+- [x] Added installation instructions for `optional-dependencies`
 - [x] Formalized `.travis.yml` steps into `requirements-dev.txt` and `./test.sh`
 - [x] Added "Development" instructions in README (mostly for testing)
 - [x] Trimmed trailing whitespace in README

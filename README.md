@@ -205,16 +205,12 @@ I'll be happy to chat with you, see you there!
 
 If you are interested in contributing to Suplemon, development dependencies can be installed via:
 
-```bash
-# For OS cleanliness, we recommend using `virtualenv` to prevent global contamination
-pip install -r requirements-dev.txt
-```
+    # For OS cleanliness, we recommend using `virtualenv` to prevent global contamination
+    pip install -r requirements-dev.txt
 
 After those are installed, tests can be run via:
 
-```bash
-./test.sh
-```
+    ./test.sh
 
 ## Todo
  * [ ] Remember cursor positions in files (and restore when opened again)
